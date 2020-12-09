@@ -9,8 +9,8 @@ Data taken from the MNIST-Dataset(https://en.wikipedia.org/wiki/MNIST_database)
 
 Check screenshots for further info
 
-[!1](HdreconShots/001.jpg "1")
-[!2](HdreconShots/002.jpg "2")
-[!3](HdreconShots/003.jpg "3")
-[!4](HdreconShots/004.jpg "4")
-[!5](HdreconShots/005.jpg "5")
+![1](HdreconShots/001.jpg "1")
+![2](HdreconShots/002.jpg "2")
+![3](HdreconShots/003.jpg "3")
+![4](HdreconShots/004.jpg "4")
+![5](HdreconShots/005.jpg "5")
